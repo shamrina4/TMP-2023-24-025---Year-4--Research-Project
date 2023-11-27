@@ -1,0 +1,44 @@
+C:\Users\acer\source\repos\FrontEndCodeGen_Mobile\FrontEndCodeGen_Mobile\bin\Debug\net6.0-windows\FrontEndCodeGen_Mobile.exe
+C:\Users\acer\source\repos\FrontEndCodeGen_Mobile\FrontEndCodeGen_Mobile\bin\Debug\net6.0-windows\FrontEndCodeGen_Mobile.deps.json
+C:\Users\acer\source\repos\FrontEndCodeGen_Mobile\FrontEndCodeGen_Mobile\bin\Debug\net6.0-windows\FrontEndCodeGen_Mobile.runtimeconfig.json
+C:\Users\acer\source\repos\FrontEndCodeGen_Mobile\FrontEndCodeGen_Mobile\bin\Debug\net6.0-windows\FrontEndCodeGen_Mobile.dll
+C:\Users\acer\source\repos\FrontEndCodeGen_Mobile\FrontEndCodeGen_Mobile\bin\Debug\net6.0-windows\FrontEndCodeGen_Mobile.pdb
+C:\Users\acer\source\repos\FrontEndCodeGen_Mobile\FrontEndCodeGen_Mobile\obj\Debug\net6.0-windows\FrontEndCodeGen_Mobile.csproj.AssemblyReference.cache
+C:\Users\acer\source\repos\FrontEndCodeGen_Mobile\FrontEndCodeGen_Mobile\obj\Debug\net6.0-windows\FrontEndCodeGen_Mobile.Form1.resources
+C:\Users\acer\source\repos\FrontEndCodeGen_Mobile\FrontEndCodeGen_Mobile\obj\Debug\net6.0-windows\FrontEndCodeGen_Mobile.selectThemes.resources
+C:\Users\acer\source\repos\FrontEndCodeGen_Mobile\FrontEndCodeGen_Mobile\obj\Debug\net6.0-windows\FrontEndCodeGen_Mobile.csproj.GenerateResource.cache
+C:\Users\acer\source\repos\FrontEndCodeGen_Mobile\FrontEndCodeGen_Mobile\obj\Debug\net6.0-windows\FrontEndCodeGen_Mobile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acer\source\repos\FrontEndCodeGen_Mobile\FrontEndCodeGen_Mobile\obj\Debug\net6.0-windows\FrontEndCodeGen_Mobile.AssemblyInfoInputs.cache
+C:\Users\acer\source\repos\FrontEndCodeGen_Mobile\FrontEndCodeGen_Mobile\obj\Debug\net6.0-windows\FrontEndCodeGen_Mobile.AssemblyInfo.cs
+C:\Users\acer\source\repos\FrontEndCodeGen_Mobile\FrontEndCodeGen_Mobile\obj\Debug\net6.0-windows\FrontEndCodeGen_Mobile.csproj.CoreCompileInputs.cache
+C:\Users\acer\source\repos\FrontEndCodeGen_Mobile\FrontEndCodeGen_Mobile\obj\Debug\net6.0-windows\FrontEndCodeGen_Mobile.dll
+C:\Users\acer\source\repos\FrontEndCodeGen_Mobile\FrontEndCodeGen_Mobile\obj\Debug\net6.0-windows\refint\FrontEndCodeGen_Mobile.dll
+C:\Users\acer\source\repos\FrontEndCodeGen_Mobile\FrontEndCodeGen_Mobile\obj\Debug\net6.0-windows\FrontEndCodeGen_Mobile.pdb
+C:\Users\acer\source\repos\FrontEndCodeGen_Mobile\FrontEndCodeGen_Mobile\obj\Debug\net6.0-windows\FrontEndCodeGen_Mobile.genruntimeconfig.cache
+C:\Users\acer\source\repos\FrontEndCodeGen_Mobile\FrontEndCodeGen_Mobile\obj\Debug\net6.0-windows\ref\FrontEndCodeGen_Mobile.dll
+C:\Users\acer\source\repos\FrontEndCodeGen_Mobile\FrontEndCodeGen_Mobile\obj\Debug\net6.0-windows\FrontEndCodeGen_Mobile.Properties.Resources.resources
+D:\research\UI Builder\2022-070\FrontEndCodeGen_Mobile\FrontEndCodeGen_Mobile\bin\Debug\net6.0-windows\FrontEndCodeGen_Mobile.exe
+D:\research\UI Builder\2022-070\FrontEndCodeGen_Mobile\FrontEndCodeGen_Mobile\bin\Debug\net6.0-windows\FrontEndCodeGen_Mobile.deps.json
+D:\research\UI Builder\2022-070\FrontEndCodeGen_Mobile\FrontEndCodeGen_Mobile\bin\Debug\net6.0-windows\FrontEndCodeGen_Mobile.runtimeconfig.json
+D:\research\UI Builder\2022-070\FrontEndCodeGen_Mobile\FrontEndCodeGen_Mobile\bin\Debug\net6.0-windows\FrontEndCodeGen_Mobile.dll
+D:\research\UI Builder\2022-070\FrontEndCodeGen_Mobile\FrontEndCodeGen_Mobile\bin\Debug\net6.0-windows\FrontEndCodeGen_Mobile.pdb
+D:\research\UI Builder\2022-070\FrontEndCodeGen_Mobile\FrontEndCodeGen_Mobile\obj\Debug\net6.0-windows\FrontEndCodeGen_Mobile.csproj.AssemblyReference.cache
+D:\research\UI Builder\2022-070\FrontEndCodeGen_Mobile\FrontEndCodeGen_Mobile\obj\Debug\net6.0-windows\FrontEndCodeGen_Mobile.Form1.resources
+D:\research\UI Builder\2022-070\FrontEndCodeGen_Mobile\FrontEndCodeGen_Mobile\obj\Debug\net6.0-windows\FrontEndCodeGen_Mobile.Properties.Resources.resources
+D:\research\UI Builder\2022-070\FrontEndCodeGen_Mobile\FrontEndCodeGen_Mobile\obj\Debug\net6.0-windows\FrontEndCodeGen_Mobile.csproj.GenerateResource.cache
+D:\research\UI Builder\2022-070\FrontEndCodeGen_Mobile\FrontEndCodeGen_Mobile\obj\Debug\net6.0-windows\FrontEndCodeGen_Mobile.GeneratedMSBuildEditorConfig.editorconfig
+D:\research\UI Builder\2022-070\FrontEndCodeGen_Mobile\FrontEndCodeGen_Mobile\obj\Debug\net6.0-windows\FrontEndCodeGen_Mobile.AssemblyInfoInputs.cache
+D:\research\UI Builder\2022-070\FrontEndCodeGen_Mobile\FrontEndCodeGen_Mobile\obj\Debug\net6.0-windows\FrontEndCodeGen_Mobile.AssemblyInfo.cs
+D:\research\UI Builder\2022-070\FrontEndCodeGen_Mobile\FrontEndCodeGen_Mobile\obj\Debug\net6.0-windows\FrontEndCodeGen_Mobile.csproj.CoreCompileInputs.cache
+D:\research\UI Builder\2022-070\FrontEndCodeGen_Mobile\FrontEndCodeGen_Mobile\obj\Debug\net6.0-windows\FrontEndCodeGen_Mobile.dll
+D:\research\UI Builder\2022-070\FrontEndCodeGen_Mobile\FrontEndCodeGen_Mobile\obj\Debug\net6.0-windows\refint\FrontEndCodeGen_Mobile.dll
+D:\research\UI Builder\2022-070\FrontEndCodeGen_Mobile\FrontEndCodeGen_Mobile\obj\Debug\net6.0-windows\FrontEndCodeGen_Mobile.pdb
+D:\research\UI Builder\2022-070\FrontEndCodeGen_Mobile\FrontEndCodeGen_Mobile\obj\Debug\net6.0-windows\FrontEndCodeGen_Mobile.genruntimeconfig.cache
+D:\research\UI Builder\2022-070\FrontEndCodeGen_Mobile\FrontEndCodeGen_Mobile\obj\Debug\net6.0-windows\ref\FrontEndCodeGen_Mobile.dll
+D:\research\UI Builder\2022-070\FrontEndCodeGen_Mobile\FrontEndCodeGen_Mobile\obj\Debug\net6.0-windows\FrontEndCodeGen_Mobile.selectTheme.resources
+D:\research\UI Builder\2022-070\FrontEndCodeGen_Mobile\FrontEndCodeGen_Mobile\obj\Debug\net6.0-windows\FrontEndCodeGen_Mobile.viewComponents.resources
+D:\research\UI Builder\2022-070\FrontEndCodeGen_Mobile\FrontEndCodeGen_Mobile\obj\Debug\net6.0-windows\FrontEndCodeGen_Mobile.viewCode.resources
+c:\Users\kavindu viraj\Desktop\Mobile\FrontEndCodeGen_Mobile\obj\Debug\net6.0-windows\FrontEndCodeGen_Mobile.csproj.AssemblyReference.cache
+c:\Users\kavindu viraj\Desktop\Mobile\FrontEndCodeGen_Mobile\obj\Debug\net6.0-windows\FrontEndCodeGen_Mobile.dll
+c:\Users\kavindu viraj\Desktop\Mobile\FrontEndCodeGen_Mobile\obj\Debug\net6.0-windows\refint\FrontEndCodeGen_Mobile.dll
+c:\Users\kavindu viraj\Desktop\Mobile\FrontEndCodeGen_Mobile\obj\Debug\net6.0-windows\FrontEndCodeGen_Mobile.pdb
