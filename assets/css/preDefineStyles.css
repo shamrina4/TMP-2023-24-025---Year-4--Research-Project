@@ -1,0 +1,39 @@
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 20.00%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+/* .inner-img {
+  transition: 0.3s;
+} */
+
+/* .inner-img:hover {
+  transform: scale(1.1);
+} */
+
+.bg-img {
+  /* The image used */
+  background-image: url("../img/formBackground.jpg");
+
+  /* Control the height of the image */
+  min-height: 380px;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+} 
+

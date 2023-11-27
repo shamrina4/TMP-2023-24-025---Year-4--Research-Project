@@ -1,0 +1,26 @@
+textarea {
+  -moz-border-bottom-colors: none;
+  -moz-border-left-colors: none;
+  -moz-border-right-colors: none;
+  -moz-border-top-colors: none;
+  background: none repeat scroll 0 0 #1e1c1c;
+  border-color: -moz-use-text-color #1e1c1c #133ec9 -moz-use-text-color;
+  border-image: none;
+  border-radius: 6px 6px 6px 6px;
+  border-style: none solid solid none;
+  border-width: medium 1px 1px medium;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.12) inset;
+  color: #f6f2f2;
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+  line-height: 1.4em;
+  padding: 5px 8px;
+  transition: background-color 0.2s ease 0s;
+  color: 'white'
+}
+
+textarea:focus {
+    background: none repeat scroll 0 0 #ffffff;
+    border-color: -moz-use-text-color #000000 #000000 -moz-use-text-color;
+    color: #000000;
+    outline-width: 0;
+}
